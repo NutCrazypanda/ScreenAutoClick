@@ -4,7 +4,7 @@
 ## Installation
 1.  ดาวน์โหลดและติดตั้ง python เวอร์ชั่น 3 ขึ้นไป.
 2.  Clone git หรือดาวน์โหลดไฟล์ sourcecode จากที่นี่
-3.  เปิด Terminal แล้วไปยัง Folder ที่เก็บ sourcecode จากนั้นรันคำสั่ง  `pip3 install -f requirements.txt`
+3.  เปิด Terminal แล้วไปยัง Folder ที่เก็บ sourcecode จากนั้นรันคำสั่ง  `pip3 install -r requirements.txt`
 
 ## วิธีการใช้งาน
 1. รันไฟล์ findposition.py ด้วยคำสั่ง `python findposition.py`
