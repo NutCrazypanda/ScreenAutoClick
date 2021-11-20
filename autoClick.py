@@ -54,14 +54,12 @@ numberOfIterations = 1
 coords = []
 
 if len(sys.argv) > 1:
-    if( sys.argv[1].isdigit() ):
-        numberOfIterations = sys.argv[1]
-    else:
-        print("Error!\nnumber of iterations must be a valid number!")
-        exit(0)
-
+    if(sys.argv[1] == "-f"):
+        coordinatefile = sys.argv[2]
+else:
+    coordinatefile = "Coordinates.txt"
 try:
-    f = open("Coordinates.txt","r")
+    f = open(coordinatefile,"r")
 
     try:
         for i in f.readlines():
