@@ -15,12 +15,19 @@ def clicker(numberOfIterations, coords):
                 y = i[1]
                 n = i[2]
                 t = i[3]
+                a = i[4]
 
                 for __ in range(int(n)):
                     pyautogui.moveTo(int(x), int(y), duration=int(t))
-                    pyautogui.mouseDown()
-                    pyautogui.mouseUp()
-                    print("clicked (" + str(x) + "," + str(y) +")")
+                    if a == 'c':
+                        pyautogui.mouseDown()
+                        #pyautogui.moveTo(int(x),int(y)+100)
+                        pyautogui.mouseUp()
+                        print("clicked (" + str(x) + "," + str(y) + ")")
+                    if a == 's':
+                        pyautogui.scroll(-150)
+                        print("scroll down (" + str(x) + "," + str(y) + ")")
+
         sleep(looptimer)
 
 def listen():
