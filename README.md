@@ -1,5 +1,7 @@
 # ScreenAutoClick
-สคริปสำหรับงานคลิกเมาส์บนหน้าจออัตโนมัติ ![Git](https://img.shields.io/github/v/release/NutCrazypanda/ScreenAutoClick) ![Git](https://img.shields.io/github/downloads/NutCrazypanda/ScreenAutoClick/total?color=green)
+สคริปสำหรับงานคลิกเมาส์บนหน้าจออัตโนมัติ 
+
+![Git](https://img.shields.io/github/v/release/NutCrazypanda/ScreenAutoClick) ![Git](https://img.shields.io/github/downloads/NutCrazypanda/ScreenAutoClick/total?color=green)
 
 ## Installation
 1.  ดาวน์โหลดและติดตั้ง python เวอร์ชั่น 3 ขึ้นไป.
