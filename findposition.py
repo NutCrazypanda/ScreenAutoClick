@@ -46,10 +46,11 @@ def on_click(x, y, button, pressed):
             delay = 1
         if pressed:
             print("click",x,y, "delay = ", str(int(delay)))
+            outputfile = str(x) + " " + str(y) + " 1 " + str(int(delay)) + " c \n"
+            f.write(outputfile)
         tstart = time.time()
         tstop = 0
-        outputfile = str(x) + " " + str(y) + " 1 " + str(int(delay)) + " c \n"
-        f.write(outputfile)
+
     except:
         print("Press 's' to start click record...")
 def on_scroll(x, y, dx, dy):
