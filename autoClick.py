@@ -79,7 +79,7 @@ except:
     print("Error!\nCoordinates.txt file not found!")
     exit(0)
 
-print("=== ScreenAutoClick v.0.2 ===")
+print("=== ScreenAutoClick v.0.3 ===")
 looptimer = input("Do auto click every(sec) [enter 0 for no timer] : ")
 looptimer = int(looptimer)
 print("Press 's' to start...")
