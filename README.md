@@ -35,3 +35,8 @@
 4. หากต้องการหยุดการ Auto click ให้กดปุ่ม "ESC" ที่คีย์บอร์ด
 
 **Note: autoClick.py จะทำงานวนไปเรื่อยๆ จนกว่าจะกดปุ่ม "ESC" ควรคำนวนเวลา Delay ระหว่างคลิกสุดท้าย กับ คลิกแรกสุดด้วย
+
+## Support
+กดติดตามเป็นกำลังใจช่องเกมของผมได้ที่ https://www.youtube.com/channel/UC9PgjH7Bc0_P4tbc8c6K25Q
+
+หรือจะช่วยค่าเกมเล็กๆ น้อยๆ ก็ยินดีครับ BTC : bc1qtczemkkmqdle9n838la3sk407jgzqx2ap03dtg
