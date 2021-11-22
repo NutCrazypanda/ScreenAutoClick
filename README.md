@@ -37,6 +37,9 @@
 **Note: autoClick.py จะทำงานวนไปเรื่อยๆ จนกว่าจะกดปุ่ม "ESC" ควรคำนวนเวลา Delay ระหว่างคลิกสุดท้าย กับ คลิกแรกสุดด้วย
 
 ## Support
-กดติดตามเป็นกำลังใจช่องเกมของผมได้ที่ https://www.youtube.com/channel/UC9PgjH7Bc0_P4tbc8c6K25Q
+กดติดตามเป็นกำลังใจช่องเกมของผมได้ที่ 
+
+[![Youtube_Badge](https://img.shields.io/badge/Youtube-CrazypandaGaming-red)](https://www.youtube.com/channel/UC9PgjH7Bc0_P4tbc8c6K25Q)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-CrazypandaGaming-blue)](https://fb.com/crazypandagaming)
 
 หรือจะช่วยค่าเกมเล็กๆ น้อยๆ ก็ยินดีครับ BTC : bc1qtczemkkmqdle9n838la3sk407jgzqx2ap03dtg
