@@ -42,3 +42,5 @@
 [![Youtube_Badge](https://img.shields.io/badge/Youtube-CrazypandaGaming-red)](https://www.youtube.com/channel/UC9PgjH7Bc0_P4tbc8c6K25Q)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-CrazypandaGaming-blue)](https://fb.com/crazypandagaming)
 
+หรือช่วยสนับสนุนค่ากาแฟก็ยินดีนะครับ BTC : bc1qtczemkkmqdle9n838la3sk407jgzqx2ap03dtg
+
